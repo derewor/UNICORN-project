@@ -25,10 +25,6 @@ These are few of the questions addressed by the project.
 ### Significance
 The project has a significance of identifying strengthes that the company needs to hold on and weakness that the company need to address to increase profitability and make the business competetive. 
 
-
-## Screenshoots
-https://drive.google.com/file/d/1na4HDIRQJ8Yz6wt2Lo0w3M2tNTLpZYOa/view?usp=sharing
-
 ## Tools
 Google colab, 
 Googlesheets, 
@@ -59,7 +55,7 @@ To reproduce the code, run the googlecolab notebook file Unicorn_project_SQL.ipy
 - However, the number of ordered items increased linearly in the same period.
 
 - High discounts mostly starting from 50% to 80% on the products of Furniture, Office Supplies leads to negative profit. Data shows discount and profit inversely proportional in 2018.
-
+![Results](https://github.com/derewor/UNICORN-project/blob/main/Results/Screenshot%202024-09-07%20at%2012.14.07.png)
 ## Visualization
 - The KPI and other metrics were visualized using Tablau
 ## Authors

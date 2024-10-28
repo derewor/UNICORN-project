@@ -9,7 +9,7 @@
 
 ## Project Description
 ### Inrtoduction
-E-commerce is becoming an important platform in the trading sector. A diverse types of goods are transacted with E-commerce. Several companies provide the platform of e-commerce among which UNICORN is one of them. In this project, data associated with sells of products in USA through the UNICORN platform was examined.  
+E-commerce is becoming an important platform in the trading sector. A diverse types of goods are transacted with E-commerce. Several companies provide the platform of e-commerce among which UNICORN is one of them. In this project, data associated with sales of products in USA through the UNICORN platform was examined.  
 ### Project specific questions
 - How the purchase of goods vary across different customer segments?
 - Which regions, states and cities generate the most revenue?
